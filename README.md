@@ -1,6 +1,6 @@
 Bienvenido a mi GitHub 👋
 # 💫 About Me:
-Hola, soy Guillermo Maldonado.<br><br>Soy estudiante de 2º año de Desarrollo de Aplicaciones Multiplataforma (DAM), con un fuerte interés en el desarrollo de software, bases de datos y deasarrollo. Me apasiona aprender nuevas tecnologías y poner en práctica mis conocimientos en proyectos que representen un reto.<br><br>Mi objetivo es consolidarme como un programador versátil, capaz de adaptarme a diferentes entornos y contribuir en equipos de trabajo aportando soluciones creativas y eficientes. Busco seguir creciendo tanto en el ámbito académico como profesional, desarrollando habilidades que me permitan destacar en el mundo tecnológico.
+Hola, soy Guillermo Maldonado.<br><br>Soy estudiante de 2º año de Desarrollo de Aplicaciones Multiplataforma (DAM), con un fuerte interés en el desarrollo de software, bases de datos. Me apasiona aprender nuevas tecnologías y poner en práctica mis conocimientos en proyectos que representen un reto.<br><br>Mi objetivo es consolidarme como un programador versátil, capaz de adaptarme a diferentes entornos y contribuir en equipos de trabajo aportando soluciones creativas y eficientes. Busco seguir creciendo tanto en el ámbito académico como profesional, desarrollando habilidades que me permitan destacar en el mundo tecnológico.
 
 
 ## 🌐 Socials:
