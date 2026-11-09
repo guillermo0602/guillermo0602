@@ -31,3 +31,8 @@ Busco mi primera posición como **desarrollador junior**. Trabajo con Java, Pyth
 [![](https://visitcount.itsvg.in/api?id=guillermo0602&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contacto
+
+- Email: guillermo.mal0602@gmail.com
+- LinkedIn: [guillermo-maldonado-chamba](https://www.linkedin.com/in/guillermo-maldonado-chamba-35bb59415)
+- Madrid, España · Disponible para incorporación inmediata
